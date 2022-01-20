@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XavierPerezz
-- 👀 I’m interested in vr and ar
-- 🌱 I’m currently learning in Holberton School
+- 👀 I’m interested in virtual reality and aumented reality
+- - 🌱 I’m currently learning in Holberton School
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
